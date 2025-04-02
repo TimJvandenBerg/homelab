@@ -76,6 +76,9 @@
         <mxCell id="2227" value="&lt;div&gt;&lt;font color=&quot;#23445d&quot;&gt;Servers&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1315" y="42" width="143" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="2iwRfTPtn8HTcauluWTs-2227" value="ER707-M2" style="shape=mxgraph.cisco.storage.cloud;html=1;dashed=0;strokeColor=#23445D;fillColor=#ffffff;strokeWidth=2;fontFamily=Helvetica;fontSize=24;fontColor=#23445D;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1033" y="20" width="186" height="106" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
