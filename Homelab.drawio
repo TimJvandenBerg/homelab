@@ -48,8 +48,8 @@
         </mxCell>
         <mxCell id="2168" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;html=1;strokeColor=#23445D;endFill=0;strokeWidth=4;rounded=1" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1244" y="212" as="sourcePoint" />
-            <mxPoint x="1243.454545454545" y="252" as="targetPoint" />
+            <mxPoint x="1251.55" y="167" as="sourcePoint" />
+            <mxPoint x="1251.004545454545" y="207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2169" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;html=1;strokeColor=#23445D;endFill=0;strokeWidth=4;rounded=1" parent="1" edge="1">
@@ -59,16 +59,19 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2170" value="" style="elbow=horizontal;endArrow=none;html=1;strokeColor=#23445D;endFill=0;strokeWidth=4;rounded=1" parent="1" edge="1" source="ZhFbryE1ptQTZO-xs4pi-2233">
+        <mxCell id="2170" value="" style="elbow=horizontal;endArrow=none;html=1;strokeColor=#23445D;endFill=0;strokeWidth=4;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="ZhFbryE1ptQTZO-xs4pi-2239">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1207.8313953488368" y="252" as="sourcePoint" />
-            <mxPoint x="1094.5400456422512" y="170" as="targetPoint" />
+            <mxPoint x="1083.3590387959134" y="185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2171" value="" style="elbow=horizontal;endArrow=none;html=1;strokeColor=#23445D;endFill=0;strokeWidth=4;rounded=1" parent="1" edge="1">
+        <mxCell id="2171" value="" style="elbow=horizontal;endArrow=none;html=1;strokeColor=#23445D;endFill=0;strokeWidth=4;rounded=1;entryX=0.87;entryY=0.74;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="ZhFbryE1ptQTZO-xs4pi-2235" source="ZhFbryE1ptQTZO-xs4pi-2236">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1157.33" y="276.8177215189871" as="sourcePoint" />
-            <mxPoint x="1025" y="350" as="targetPoint" />
+            <mxPoint x="1142.33" y="285.99772151898713" as="sourcePoint" />
+            <mxPoint x="1010" y="359.18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2227" value="&lt;div&gt;&lt;font color=&quot;#23445d&quot;&gt;Servers&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" parent="1" vertex="1">
@@ -87,10 +90,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZhFbryE1ptQTZO-xs4pi-2233" value="" style="shape=mxgraph.cisco.switches.fibre_channel_fabric_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1157.3313953488368" y="215" width="101" height="74" as="geometry" />
+          <mxGeometry x="1150" y="360" width="101" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="ZhFbryE1ptQTZO-xs4pi-2234" value="&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Switch&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;SX3008F&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="215" width="151.5" height="71" as="geometry" />
+        <mxCell id="ZhFbryE1ptQTZO-xs4pi-2234" value="&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Switch&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;SX3008F&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1271.5" y="360" width="151.5" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhFbryE1ptQTZO-xs4pi-2235" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="350" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhFbryE1ptQTZO-xs4pi-2237" value="" style="elbow=horizontal;endArrow=none;html=1;strokeColor=#23445D;endFill=0;strokeWidth=4;rounded=1" edge="1" parent="1" source="ZhFbryE1ptQTZO-xs4pi-2233" target="ZhFbryE1ptQTZO-xs4pi-2236">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1150" y="388" as="sourcePoint" />
+            <mxPoint x="1010" y="359.18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhFbryE1ptQTZO-xs4pi-2236" value="&lt;div&gt;10Gbps&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhFbryE1ptQTZO-xs4pi-2240" value="" style="elbow=horizontal;endArrow=none;html=1;strokeColor=#23445D;endFill=0;strokeWidth=4;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZhFbryE1ptQTZO-xs4pi-2235" target="ZhFbryE1ptQTZO-xs4pi-2239">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="961" y="350" as="sourcePoint" />
+            <mxPoint x="1083" y="185" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhFbryE1ptQTZO-xs4pi-2239" value="2.5Gbps" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="990" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhFbryE1ptQTZO-xs4pi-2241" value="&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Switch&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;SG3210XHP-M2&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="750" y="339.5" width="151.5" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
